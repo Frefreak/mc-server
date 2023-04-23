@@ -13,7 +13,6 @@
 
 以下是客户端部分翻译(AI):
 
-```
 要在 PrismLauncher 或 MultiMC 中安装：
 
 将 `lwjgl3ify-VERSION-multimc.zip` 的内容复制到 `instances/My Modpack/`。
@@ -25,7 +24,6 @@ minecraft 文件夹中的 `mods/`，它将作为核心模组加载。 forgePatch
 将实例的 Java 版本更改为 17.0.6（或更新版本）、19.0.2（或更新版本）或 20（或更新版本），这些是当前支持的版本。 如果从 patches/me.eigenraven.lwjgl3ify.forgepatches.json 中删除 `-Djava.security.manager=allow` 参数，您还可以使用 Java 11。
 
 对于 MultiMC，您需要手动输入额外的 Java 参数，prismlauncher 可以从补丁 json 文件自动加载它们：
-```
 
 ```
 --illegal-access=warn -Djava.security.manager=allow -Dfile.encoding=UTF-8 --add-opens java.base/jdk.internal.loader=ALL-UNNAMED --add-opens java.base/java.net=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.lang.reflect=ALL-UNNAMED --add-opens java.base/java.text=ALL-UNNAMED --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/jdk.internal.reflect=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens jdk.naming.dns/com.sun.jndi.dns=ALL-UNNAMED,java.naming --add-opens java.desktop/sun.awt.image=ALL-UNNAMED --add-modules jdk.dynalink --add-opens jdk.dynalink/jdk.dynalink.beans=ALL-UNNAMED --add-modules java.sql.rowset --add-opens java.sql.rowset/javax.sql.rowset.serial=ALL-UNNAMED

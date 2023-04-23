@@ -13,6 +13,8 @@
 
 以下是客户端部分翻译(AI):
 
+------------
+
 要在 PrismLauncher 或 MultiMC 中安装：
 
 将 `lwjgl3ify-VERSION-multimc.zip` 的内容复制到 `instances/My Modpack/`。
@@ -30,3 +32,5 @@ minecraft 文件夹中的 `mods/`，它将作为核心模组加载。 forgePatch
 ```
 
 如果您想调整默认窗口大小、OpenGL上下文属性或其他更高级的设置，请在首次启动后查看`config/lwjgl3ify.cfg`中的配置文件。
+
+-----------------

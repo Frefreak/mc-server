@@ -16,7 +16,7 @@
 
 ### changelog
 
-- **2.3.2** -> **2.3.3**: [doc](gtnh/changelog from 2.3.2 to 2.3.3.md)
+- **2.3.2** -> **2.3.3**: [changelog](gtnh/changelog_from_2.3.2_to_2.3.3.md)
 
 ### curseforge包使用高版本java启动
 

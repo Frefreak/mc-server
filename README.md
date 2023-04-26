@@ -1,11 +1,22 @@
 ### 整合包信息
 
-当前: GTNH 2.3.2
+当前: GTNH 2.3.3
 
 - [官方安装说明](https://gtnh.miraheze.org/wiki/Installing_and_Migrating)
 - [官方wiki](https://gtnh.miraheze.org/wiki/Main_Page)
 - [curseforge](https://www.curseforge.com/minecraft/modpacks/gt-new-horizons)
 - [mcmod](https://www.mcmod.cn/modpack/1.html)
+
+### 额外mod
+
+除本体外还需要安装如下mod才可进入服务器。
+
+- [FTBLib-1.0.19](https://github.com/GTNewHorizons/FTB-Library/releases/tag/1.0.19-GTNH): FTBUtilities的依赖。[下载地址](https://github.com/GTNewHorizons/FTB-Library/releases/download/1.0.19-GTNH/FTBLib-1.0.19-GTNH.jar)
+- [FTBUtilities-1.0.19](https://github.com/GTNewHorizons/FTB-Library/releases/tag/1.0.19-GTNH): chunk loader, 区块保护等。[下载地址](https://github.com/GTNewHorizons/FTB-Library/releases/download/1.0.19-GTNH/FTBLib-1.0.19-GTNH.jar)
+
+### changelog
+
+- **2.3.2** -> **2.3.3**: [doc](gtnh/changelog from 2.3.2 to 2.3.3.md)
 
 ### curseforge包使用高版本java启动
 

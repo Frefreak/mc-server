@@ -12,7 +12,7 @@
 除本体外还需要安装如下mod才可进入服务器。
 
 - [FTBLib-1.0.19](https://github.com/GTNewHorizons/FTB-Library/releases/tag/1.0.19-GTNH): FTBUtilities的依赖。[下载地址](https://github.com/GTNewHorizons/FTB-Library/releases/download/1.0.19-GTNH/FTBLib-1.0.19-GTNH.jar)
-- [FTBUtilities-1.0.19](https://github.com/GTNewHorizons/FTB-Library/releases/tag/1.0.19-GTNH): chunk loader, 区块保护等。[下载地址](https://github.com/GTNewHorizons/FTB-Library/releases/download/1.0.19-GTNH/FTBLib-1.0.19-GTNH.jar)
+- [FTBUtilities-1.0.19](https://github.com/GTNewHorizons/FTB-Utilities/releases/tag/1.0.19-GTNH): chunk loader, 区块保护等。[下载地址](https://github.com/GTNewHorizons/FTB-Utilities/releases/download/1.0.19-GTNH/FTBUtilities-1.0.19-GTNH.jar)
 
 ### changelog
 

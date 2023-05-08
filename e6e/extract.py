@@ -29,7 +29,7 @@ def extract(file_path, input_folder):
         if not isinstance(o, dict):
             return
         key = prefix
-        for field in ["title", "command", "Name", "text"]:
+        for field in ["title", "Name", "text"]:
             if field in o:
                 p = key + f".{field}"
                 if p in texts:

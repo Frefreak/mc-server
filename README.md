@@ -7,7 +7,16 @@
 - [curseforge](https://www.curseforge.com/minecraft/modpacks/enigmatica6expert)
 - [mcmod](https://www.mcmod.cn/modpack/399.html)
 
-### ftbquests汉化相关
+### 额外mod(必看)
+
+#### The Toolkits
+
+除原版整合包外需要加一个额外的mod: The Toolkits，添加了一些辅助功能。详情可看
+- [mcmod](https://www.mcmod.cn/class/10336.html)
+- [curseforge](https://legacy.curseforge.com/minecraft/mc-mods/the-toolkits)
+- [modrinth](https://modrinth.com/mod/the-toolkits)
+
+### ftbquests汉化相关(必看)
 
 因为要让ftbquests支持多语言，修改了服务器的`config/ftbquests/quests`目录，客户端需
 要将相应的语言文件加到客户端里。

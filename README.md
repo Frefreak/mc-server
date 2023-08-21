@@ -21,3 +21,8 @@
 示例：![](e6e/e6e_lang.png)
 
 这个改动只影响服务器游玩，单机不会有影响。
+
+### 额外mod(必看)
+
+- ftb-essentials-1802.2.2-build.83.jar
+- ftb-chunks-forge-1802.3.17-build.265.jar

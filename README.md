@@ -1,7 +1,7 @@
 ### 整合包信息
 
-当前: UniversIO
+当前: Create: Arcane Engineering
 
-版本: R-5.0
+版本: 0.1.7
 
-- [curseforge](https://www.curseforge.com/minecraft/modpacks/universio)
+- [curseforge](https://legacy.curseforge.com/minecraft/modpacks/create-arcane-engineering)

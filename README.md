@@ -12,7 +12,7 @@
 要将相应的语言文件加到客户端里。
 
 - 需要任务文本为英文，下载[en\_us.json](cae/en_us.json)
-- 需要任务文本为中文，下载[en\_us.json](cae/en_us.json)和[zh\_cn.json](aqm3/zh_cn.json)
+- 需要任务文本为中文，下载[en\_us.json](cae/en_us.json)和[zh\_cn.json](cae/zh_cn.json)
 
 下载后将json文件放置到`/path/to/minecraft/kubejs/assets/<name>/lang`目录中，重启游戏即可。
 
